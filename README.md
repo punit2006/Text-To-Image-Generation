@@ -89,4 +89,4 @@ Feel free to open issues or PRs for improvements!
 ⭐ **Star this repo if you find it useful!** ⭐  
 
 🔗 **Connect with me:**  
-[GitHub](https://github.com/punit2006) | [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/punitjain163)  
+[GitHub](https://github.com/punit2006) | [LinkedIn](https://linkedin.com/in/punitjain163)  
